@@ -1,0 +1,10 @@
+requests
+pandas
+numpy
+matplotlib
+seaborn
+pymongo
+sqlalchemy
+psycopg2-binary
+dash
+plotly
